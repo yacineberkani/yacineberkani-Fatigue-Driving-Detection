@@ -3,6 +3,8 @@
 ## Description
 Système de détection de fatigue au volant basé sur l'apprentissage profond et la fusion multi-indices, utilisant MTCNN amélioré et E-MSR Net pour la détection en temps réel des signes de fatigue du conducteur.
 
+[Regarder la vidéo](https://github.com/yacineberkani/yacineberkani-Fatigue-Driving-Detection/blob/main/test.mp4)
+
 ## Table des matières
 1. [Installation](#installation)
 2. [Configuration](#configuration)
