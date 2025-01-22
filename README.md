@@ -11,7 +11,7 @@ Système de détection de fatigue au volant basé sur l'apprentissage profond et
 
 [![Watch the video](https://github.com/yacineberkani/yacineberkani-Fatigue-Driving-Detection/blob/main/resultats/tests/result_33.jpg)](https://www.youtube.com/watch?v=W8kyi7XJ66Y)
 
-
+<img src="/docs/logo.png" alt="VideoLingo Logo" height="140">
 <td width="100%">
 
 https://www.youtube.com/watch?v=W8kyi7XJ66Y
