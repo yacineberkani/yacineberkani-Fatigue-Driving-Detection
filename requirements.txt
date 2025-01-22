@@ -1,0 +1,52 @@
+# Bibliothèques principales
+tensorflow>=2.5.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+scikit-learn>=0.24.0
+
+# Traitement d'images et augmentation de données
+albumentations>=1.0.0
+Pillow>=8.2.0
+
+# Gestion des chemins et téléchargement
+pathlib>=1.0.1
+wget>=3.2
+
+# Utilitaires
+tqdm>=4.62.0
+matplotlib>=3.4.0
+pandas>=1.3.0
+
+# Tests et développement
+pytest>=6.2.5
+pytest-cov>=2.12.0
+
+# Optimisation GPU (optionnel)
+tensorflow-gpu>=2.5.0
+cudatoolkit>=11.2
+cudnn>=8.1.0
+
+# Formatage et qualité du code
+black>=21.5b2
+flake8>=3.9.0
+isort>=5.9.0
+
+# Documentation
+sphinx>=4.0.2
+sphinx-rtd-theme>=0.5.2
+
+# Gestion des environnements
+python-dotenv>=0.19.0
+
+# Journalisation
+tensorboard>=2.5.0
+wandb>=0.12.0
+
+# Sérialisation des modèles
+h5py>=3.1.0
+
+# Interface graphique (optionnel pour la visualisation)
+PyQt5>=5.15.0
+
+# Ajouter cette ligne aux dépendances existantes
+gdown>=4.7.1 

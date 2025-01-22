@@ -1,0 +1,19 @@
+Résultats de l'évaluation (20250101_181929)
+==================================================
+
+Loss moyenne: 0.0873
+Précision: 0.9828
+
+Rapport de classification:
+              precision    recall  f1-score   support
+
+       Fermé       0.98      0.99      0.98       203
+      Ouvert       0.99      0.98      0.98       204
+
+    accuracy                           0.98       407
+   macro avg       0.98      0.98      0.98       407
+weighted avg       0.98      0.98      0.98       407
+
+Matrice de confusion:
+[[201   2]
+ [  5 199]]
