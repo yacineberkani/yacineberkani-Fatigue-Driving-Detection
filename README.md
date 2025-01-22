@@ -19,7 +19,7 @@ https://github.com/yacineberkani/yacineberkani-Fatigue-Driving-Detection/blob/ma
 
 
 
-![Video demo1](https://github.com/yacineberkani/yacineberkani-Fatigue-Driving-Detection/raw/main/test.mp4)
+![Video demo1](https://github.com/user-attachments/assets/edcd9028-eadc-4004-b90f-4306def56f04)
 
 ## Table des matières
 1. [Installation](#installation)
