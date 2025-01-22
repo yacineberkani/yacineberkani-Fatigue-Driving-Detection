@@ -10,6 +10,9 @@ Système de détection de fatigue au volant basé sur l'apprentissage profond et
 </video>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W8kyi7XJ66Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <video width="640" height="360" controls>
   <source src="https://www.youtube.com/watch?v=W8kyi7XJ66Y" type="video/mp4">
   Votre navigateur ne supporte pas la balise vidéo.
